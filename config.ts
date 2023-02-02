@@ -1,20 +1,24 @@
 const config: Config = {
     mode: 'NO_LIMITS', // 'CHINA' | 'WORLD' | 'NO_LIMITS'
-    botToken: 'put_your_token_here',
+    botToken: '5778803513:AAGqTkyF--atxLBdKisq4xx6YXgFUvSiUW8',
     keepFiles: {
-        compared: true,
-        input: true,
-        single: true,
-        video: true,
+        compared: false,
+        input: false,
+        single: false,
+        video: false,
     },
     messages: {
         blocked: 'The Chinese website has blocked the bot, too bad 🤷‍♂️',
         bye:
-            'Thank you for using this bot 👍\n' +
+            '💚 Thanks For Using Bot 💚\n' +
+            '💚 You can add bot your groups 💚\n' +
+            '💚 [Bot Channel](https://t.me/animebotc) 💚\n' +
+            '💚 [Bot Channel](https://t.me/animebotc) 💚\n' +
+            'special Thanks For script Owner Imcsu',
             'Join telegram channel [Click](https://t.me/animebotc) ♥️',
-        hello: 'Hi  Send me a photo to convert it into a 2D anime use this bot you join the channel 🌸',
-        media: '@qq\\_neural\\_anime\\_bot',
-        received: 'Photo has been received, please wait',
+        hello: 'Hi  Send me a photo to convert it into a 2D anime you use this bot please join the channel 🌸',
+        media: '@Anime\\qq\\Ai\\_bot',
+        received: 'Photo has been received, please wait 🍀',
     },
     sendMedia: {
         compared: true,
