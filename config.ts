@@ -15,7 +15,6 @@ const config: Config = {
             '💚 [Bot Channel](https://t.me/animebotc) 💚\n' +
             '💚 [Bot Channel](https://t.me/animebotc) 💚\n' +
             'special Thanks For script Owner Imcsu',
-            'Join telegram channel [Click](https://t.me/animebotc) ♥️',
         hello: 'Hi  Send me a photo to convert it into a 2D anime you use this bot please join the channel 🌸',
         media: '@Anime\\qq\\Ai\\_bot',
         received: 'Photo has been received, please wait 🍀',
