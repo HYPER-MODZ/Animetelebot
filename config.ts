@@ -11,8 +11,8 @@ const config: Config = {
         blocked: 'The Chinese website has blocked the bot, too bad 🤷‍♂️',
         bye:
             'Thank you for using this bot 👍\n' +
-            'Please rate and fork it on [Github](https://github.com/lmcsu/qq-neural-anime-tg) ♥️',
-        hello: 'Hi 👋 Send me a photo to convert it into a 2D anime art',
+            'Join telegram channel [Click](https://t.me/animebotc) ♥️',
+        hello: 'Hi  Send me a photo to convert it into a 2D anime use this bot you join the channel 🌸',
         media: '@qq\\_neural\\_anime\\_bot',
         received: 'Photo has been received, please wait',
     },
@@ -22,7 +22,7 @@ const config: Config = {
         video: true, // doesn't work with mode=WORLD
     },
     parallelRequests: 10,
-    // proxyUrl: 'socks5://user:password@11.22.33.44:1234',
+    // proxyUrl: 'socks5://HIA:HIA@47.92.85.36:1080',
 };
 
 export default config;
